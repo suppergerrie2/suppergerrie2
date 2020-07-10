@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Check out my site at: [suppergerrie2.com](https://www.suppergerrie2.com).
+- Or my mods on:        [curseforge](https://www.curseforge.com/members/suppergerrie2/projects)
+
 <!--
 **suppergerrie2/suppergerrie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
