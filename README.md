@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- Check out my site at: [suppergerrie2.com](https://www.suppergerrie2.com).
-- Or my mods on:        [curseforge](https://www.curseforge.com/members/suppergerrie2/projects)
+- Check out my site at:     [suppergerrie2.com](https://www.suppergerrie2.com).
+- Or my mods on:            [curseforge](https://www.curseforge.com/members/suppergerrie2/projects)
+- I'm currently working on: My Computer Science studies.
+- Ask me about:             Minecraft modding and dogs and cats.
+- Pronouns:                 He/Him
 
 <!--
 **suppergerrie2/suppergerrie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
